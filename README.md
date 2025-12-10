@@ -26,16 +26,6 @@ NumPy / Pandas
 
 Optional: Flask / FastAPI for API
 
-**📥 Installation**
-git clone https://github.com/yourusername/ai-route-optimization.git
-cd ai-route-optimization
-pip install -r requirements.txt
-
-
-**📤 Example Output**
-Optimal Route: A → C → E → D → B
-Total Distance: 12.5 km
-Estimated Time: 18 mins
 
 **🧠 How It Works**
 Converts locations into a weighted graph
