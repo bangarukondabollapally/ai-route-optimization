@@ -3,8 +3,8 @@ AI-powered system for calculating the most efficient travel routes using graph a
 AI Route Optimization
 
 AI-powered route optimization system that calculates the most efficient travel paths using graph algorithms and machine learning. Designed for delivery apps, logistics, and navigation systems.
-**
-🚀 Features**
+
+**🚀 Features**
 
 Fast and efficient route calculation
 
@@ -32,13 +32,12 @@ cd ai-route-optimization
 pip install -r requirements.txt
 
 
-📤 Example Output
+**📤 Example Output**
 Optimal Route: A → C → E → D → B
-\nTotal Distance: 12.5 km
-\nEstimated Time: 18 mins
-**
-🧠 How It Works
-**
+Total Distance: 12.5 km
+Estimated Time: 18 mins
+
+**🧠 How It Works**
 Converts locations into a weighted graph
 
 Computes shortest path using classical algorithms
